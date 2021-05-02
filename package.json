@@ -1,6 +1,6 @@
 {
     "description":"Arduino Wiring-based Framework (SAMR34 Core)",
-    "name":"framework-arduino-samd",
+    "name":"framework-arduino-samr34",
     "url":"https://github.com/aldrinleal/samr",
     "version":"1.0000.20210126"
 }
